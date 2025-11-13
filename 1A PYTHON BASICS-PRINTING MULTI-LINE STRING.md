@@ -9,6 +9,10 @@ To create a Python program to print the string in multiple lines using triple qu
 3. Use the `print()` function to display the multi-line string.  
 4. Terminate the program.
 
+## Reg.No-212223060147
+
+## Name- MANICKAM SUBBU
+
 ## PROGRAM
 ```python
 print('''I am a string literal
